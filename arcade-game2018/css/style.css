@@ -1,0 +1,12 @@
+/*body style*/
+body {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+/*style for timer*/
+div.myTime{
+text-align: center;
+font-size: 20px;
+color: white;
+}
