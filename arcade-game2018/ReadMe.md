@@ -2,10 +2,10 @@
 Das ist die Classic nanodeegri Game von Udacity.
 In dies Spiel hat man ein Spieler und die Enemies.Das Ziel ist,dass man das Wasser erreichen muss und sobald man das Wasser erreicht hat ohne dass man mit der Enemies getroffen hat, kann man gewinnen.
 
-##Das Projekt
+#Das Projekt
 Du kannst mein Projekt in Github finden unter folgende Adresse();
 
-##Usage
+#Usage
 Du kannst das Projekt selbst mal ausprobiern.
 einfach die Index HTML in browser aufmachen und mit keypress spielen.
 
